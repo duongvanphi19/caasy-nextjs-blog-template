@@ -22,7 +22,7 @@ export default {
     // this until Caasy fully supports multi language content.
     locale: 'en_US',
     social: {
-        github: 'https://github.com/jz222',
+        github: 'https://github.com/duongvanphi19',
         dev: 'https://dev.to/jz222',
         twitter: 'https://twitter.com',
         linkedin: 'https://www.linkedin.com/in/timo-zimmermann',
